@@ -23,4 +23,4 @@ In addition some utils should've been provided:
 
 > It was required to implement a Red-Black Tree and use it in Map and Set containers.
 
-> Custom containers' performance/timing allowed to be up to 20 times slower than original. Mine turned out to be 2 times slower in general.
+> Custom containers' performance/timing allowed to be up to 20 times slower than original.
