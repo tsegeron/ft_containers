@@ -193,7 +193,7 @@ void	iteratorsCheck() {
 	std::cout << "\n\n";
 
 	std::cout << *--rit << "\n";
-	std::cout << *rite << "\n";
+	std::cout << *--rite << "\n";
 
 	printc("prefix reverse iterator decrement")
 	for (; rit != vec.rbegin(); --rit)
